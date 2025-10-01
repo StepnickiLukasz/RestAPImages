@@ -1,8 +1,6 @@
-# RestAPImages
-API for images
+# How to run application
 
-## To run the app
-1. install Docker on your machine
-2. go to the folder of the app
-3. run `sudo docker compose up -d`
-4. now your app is available on `localhost:8000`
+1. Install Docker on your machine
+2. `sudo docker compose up -d`
+3. Now the application works on the `localhost:8000`
+4. API documentation is available at `localhost:8000/docs/`
